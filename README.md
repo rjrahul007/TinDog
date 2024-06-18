@@ -1,6 +1,6 @@
 # TinDogs
 
-This repository contains the source code for the "Tinder for Dogs" website, a project developed as part of the Web Development Bootcamp by Angela Yu on Udemy. The website is built using the Bootstrap framework and allows users to create profiles for their dogs and find suitable matches.
+This repository contains the source code for the "Tinder for Dogs" website, a project developed as part of the Web Development Bootcamp by Angela Yu on Udemy. The website is built using the Bootstrap framework.
 
 ## Features
 - Responsive design using Bootstrap
